@@ -22,7 +22,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Installation of Actrive Directory
+- Installation Of Active Directory
 - Creatiing Domain User Within My Domain
 - Joining Client To My Domain
 - Setup Remote Desktop For Non-Administrative Users For Client
